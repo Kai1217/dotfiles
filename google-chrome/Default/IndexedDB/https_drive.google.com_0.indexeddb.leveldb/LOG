@@ -1,0 +1,9 @@
+2020/03/30-22:31:43.526 9da Reusing MANIFEST /home/kai/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/30-22:31:43.526 9da Recovering log #30
+2020/03/30-22:31:43.527 9da Reusing old log /home/kai/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000030.log 
+2020/03/30-22:32:00.219 b1e Compacting 1@0 + 1@1 files
+2020/03/30-22:32:00.241 b1e Generated table #33@0: 359 keys, 64777 bytes
+2020/03/30-22:32:00.241 b1e Compacted 1@0 + 1@1 files => 64777 bytes
+2020/03/30-22:32:00.262 b1e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/30-22:32:00.263 b1e Delete type=2 #31
+2020/03/30-22:32:00.263 b1e Delete type=2 #28

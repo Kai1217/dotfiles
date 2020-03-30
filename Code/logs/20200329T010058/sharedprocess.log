@@ -1,0 +1,16 @@
+[2020-03-29 01:01:03.169] [sharedprocess] [info] main {"machineId":"f90a6355c413a670d1d9f1a1d9d6c24fcf038a7c27f55689b7c6695571721a54","windowId":2}
+[2020-03-29 01:01:03.365] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-edit /home/kai/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.50.0
+[2020-03-29 01:01:03.400] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh /home/kai/.vscode/extensions/ms-vscode-remote.remote-ssh-0.50.0
+[2020-03-29 01:01:06.831] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2020-03-29 01:01:06.834] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2020-03-29 01:01:08.877] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /tmp/9c8a6e9e-9e62-409c-8395-b33ec5a87e19
+[2020-03-29 01:01:09.084] [sharedprocess] [info] Extracted extension to /home/kai/.vscode/extensions/.ms-vscode-remote.remote-ssh-edit-0.51.0: ms-vscode-remote.remote-ssh-edit
+[2020-03-29 01:01:09.085] [sharedprocess] [info] Renamed to /home/kai/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.51.0
+[2020-03-29 01:01:09.094] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit
+[2020-03-29 01:01:09.099] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /tmp/cfa980a3-8d46-47f9-9fae-021894019bb4
+[2020-03-29 01:01:09.150] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit
+[2020-03-29 01:01:09.999] [sharedprocess] [info] Extracted extension to /home/kai/.vscode/extensions/.ms-vscode-remote.remote-ssh-0.51.0: ms-vscode-remote.remote-ssh
+[2020-03-29 01:01:10.000] [sharedprocess] [info] Renamed to /home/kai/.vscode/extensions/ms-vscode-remote.remote-ssh-0.51.0
+[2020-03-29 01:01:10.005] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2020-03-29 01:01:10.039] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2020-03-29 01:01:43.212] [sharedprocess] [info] Starting to clean up unused language packs.

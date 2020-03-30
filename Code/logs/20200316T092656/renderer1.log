@@ -1,0 +1,2 @@
+[2020-03-16 09:27:51.513] [renderer1] [error] Unable to read file '/home/kai/Documents/Digital/IA2/node/main.js' (Error: Unable to resolve non-existing file '/home/kai/Documents/Digital/IA2/node/main.js'): Error: Unable to read file '/home/kai/Documents/Digital/IA2/node/main.js' (Error: Unable to resolve non-existing file '/home/kai/Documents/Digital/IA2/node/main.js')
+    at _.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1617:417)

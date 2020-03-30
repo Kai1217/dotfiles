@@ -1,0 +1,6 @@
+2020/03/29-22:05:20.402 895 Reusing MANIFEST /home/kai/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/03/29-22:05:20.402 895 Recovering log #555
+2020/03/29-22:05:20.404 895 Reusing old log /home/kai/.config/google-chrome/Default/Sync Data/LevelDB/000555.log 
+2020/03/29-22:28:12.544 e91 Level-0 table #559: started
+2020/03/29-22:28:12.560 e91 Level-0 table #559: 97839 bytes OK
+2020/03/29-22:28:12.570 e91 Delete type=0 #555

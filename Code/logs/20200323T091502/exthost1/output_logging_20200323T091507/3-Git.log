@@ -1,0 +1,19 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/kai/Documents/Digital/IA2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/Dataset2.cs
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git cat-file -s 4eec63ac9f395a3bb928fe2e8f62ef8cd457a088
+> git check-ignore -v -z --stdin

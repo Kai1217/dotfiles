@@ -1,0 +1,43 @@
+2020/03/29-22:05:21.456 8b6 Reusing MANIFEST /home/kai/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/03/29-22:05:21.456 8b6 Recovering log #1075
+2020/03/29-22:05:21.463 8b6 Reusing old log /home/kai/.config/google-chrome/Default/Local Storage/leveldb/001075.log 
+2020/03/29-22:13:47.513 f0d Level-0 table #1079: started
+2020/03/29-22:13:47.523 f0d Level-0 table #1079: 17742 bytes OK
+2020/03/29-22:13:47.534 f0d Delete type=0 #1075
+2020/03/29-22:25:56.618 f0d Level-0 table #1081: started
+2020/03/29-22:25:56.650 f0d Level-0 table #1081: 16570 bytes OK
+2020/03/29-22:25:56.661 f0d Delete type=0 #1078
+2020/03/29-22:25:56.661 f0d Compacting 4@0 + 2@1 files
+2020/03/29-22:25:56.722 f0d Generated table #1082@0: 870 keys, 2123918 bytes
+2020/03/29-22:25:56.769 f0d Generated table #1083@0: 2575 keys, 1270432 bytes
+2020/03/29-22:25:56.769 f0d Compacted 4@0 + 2@1 files => 3394350 bytes
+2020/03/29-22:25:56.779 f0d compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/03/29-22:25:56.779 f0d Delete type=2 #1074
+2020/03/29-22:25:56.779 f0d Delete type=2 #1070
+2020/03/29-22:25:56.779 f0d Delete type=2 #1079
+2020/03/29-22:25:56.779 f0d Delete type=2 #1071
+2020/03/29-22:25:56.779 f0d Delete type=2 #1081
+2020/03/29-22:25:56.779 f0d Delete type=2 #1076
+2020/03/29-22:36:34.697 f0d Level-0 table #1085: started
+2020/03/29-22:36:34.726 f0d Level-0 table #1085: 15235 bytes OK
+2020/03/29-22:36:34.735 f0d Delete type=0 #1080
+2020/03/29-22:42:55.801 f0d Level-0 table #1087: started
+2020/03/29-22:42:55.816 f0d Level-0 table #1087: 14064 bytes OK
+2020/03/29-22:42:55.829 f0d Delete type=0 #1084
+2020/03/29-22:43:00.493 f0d Level-0 table #1089: started
+2020/03/29-22:43:00.555 f0d Level-0 table #1089: 479394 bytes OK
+2020/03/29-22:43:00.572 f0d Delete type=0 #1086
+2020/03/29-23:03:34.555 f0d Level-0 table #1091: started
+2020/03/29-23:03:34.566 f0d Level-0 table #1091: 14956 bytes OK
+2020/03/29-23:03:34.576 f0d Delete type=0 #1088
+2020/03/29-23:03:34.598 f0d Compacting 4@0 + 2@1 files
+2020/03/29-23:03:34.729 f0d Generated table #1092@0: 872 keys, 2107658 bytes
+2020/03/29-23:03:34.827 f0d Generated table #1093@0: 2606 keys, 1246076 bytes
+2020/03/29-23:03:34.827 f0d Compacted 4@0 + 2@1 files => 3353734 bytes
+2020/03/29-23:03:34.848 f0d compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/03/29-23:03:34.848 f0d Delete type=2 #1082
+2020/03/29-23:03:34.848 f0d Delete type=2 #1087
+2020/03/29-23:03:34.848 f0d Delete type=2 #1089
+2020/03/29-23:03:34.848 f0d Delete type=2 #1083
+2020/03/29-23:03:34.848 f0d Delete type=2 #1085
+2020/03/29-23:03:34.848 f0d Delete type=2 #1091

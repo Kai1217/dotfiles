@@ -1,0 +1,27 @@
+2020/03/29-22:05:20.843 894 Reusing MANIFEST /home/kai/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/03/29-22:05:20.843 894 Recovering log #637
+2020/03/29-22:05:20.844 894 Reusing old log /home/kai/.config/google-chrome/Default/Session Storage/000637.log 
+2020/03/29-22:24:11.531 f0d Level-0 table #642: started
+2020/03/29-22:24:11.544 f0d Level-0 table #642: 21085 bytes OK
+2020/03/29-22:24:11.554 f0d Delete type=0 #637
+2020/03/29-22:30:28.669 f0d Level-0 table #644: started
+2020/03/29-22:30:28.700 f0d Level-0 table #644: 16403 bytes OK
+2020/03/29-22:30:28.711 f0d Delete type=0 #641
+2020/03/29-22:34:32.498 f0d Level-0 table #646: started
+2020/03/29-22:34:32.510 f0d Level-0 table #646: 20103 bytes OK
+2020/03/29-22:34:32.522 f0d Delete type=0 #643
+2020/03/29-22:40:09.341 f0d Level-0 table #648: started
+2020/03/29-22:40:09.380 f0d Level-0 table #648: 19989 bytes OK
+2020/03/29-22:40:09.390 f0d Delete type=0 #645
+2020/03/29-22:40:09.391 f0d Compacting 4@0 + 1@1 files
+2020/03/29-22:40:09.422 f0d Generated table #649@0: 7759 keys, 200805 bytes
+2020/03/29-22:40:09.422 f0d Compacted 4@0 + 1@1 files => 200805 bytes
+2020/03/29-22:40:09.432 f0d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/29-22:40:09.432 f0d Delete type=2 #648
+2020/03/29-22:40:09.432 f0d Delete type=2 #639
+2020/03/29-22:40:09.432 f0d Delete type=2 #644
+2020/03/29-22:40:09.432 f0d Delete type=2 #642
+2020/03/29-22:40:09.432 f0d Delete type=2 #646
+2020/03/29-23:03:34.576 f0d Level-0 table #651: started
+2020/03/29-23:03:34.587 f0d Level-0 table #651: 15241 bytes OK
+2020/03/29-23:03:34.597 f0d Delete type=0 #647

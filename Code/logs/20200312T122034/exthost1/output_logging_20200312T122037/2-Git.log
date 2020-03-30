@@ -1,0 +1,136 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/kai/Documents/Digital/IA2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/files.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/files.php
+> git show :LICENSE
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/LICENSE
+> git cat-file -s d2d29ee1204f30ce1f8f8d9ac805085f8c1f338e
+> git show :app/files.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/files.php
+> git show :app/main.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/main.php
+> git cat-file -s 17a2ca6d33eef42137dbc6ba3c8867b45dda6c48
+> git check-ignore -v -z --stdin
+> git show :app/include/main.js
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/include/main.js
+> git cat-file -s f49f7d9df0f45135f0f4526e1c4a76f8d6e66ef2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/main.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/main.php
+> git cat-file -s 17a2ca6d33eef42137dbc6ba3c8867b45dda6c48
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/files.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/files.php
+> git show :app/include/main.js
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/include/main.js
+> git cat-file -s f49f7d9df0f45135f0f4526e1c4a76f8d6e66ef2
+> git show :app/main.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/main.php
+> git cat-file -s 17a2ca6d33eef42137dbc6ba3c8867b45dda6c48
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/include/func.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/include/func.php
+> git cat-file -s 021b53182ed3f03931f051b1a468b61eb5b735a7
+> git show :app/include/db.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/include/db.php
+> git cat-file -s e7d0b5a1e75251d479c3b8d00ef484d5c8688a63
+> git show :app/config.conf
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/config.conf
+> git show :app/files.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/files.php
+> git show :app/main.php
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/main.php
+> git cat-file -s 17a2ca6d33eef42137dbc6ba3c8867b45dda6c48
+> git show :app/include/main.js
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/app/include/main.js
+> git cat-file -s f49f7d9df0f45135f0f4526e1c4a76f8d6e66ef2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

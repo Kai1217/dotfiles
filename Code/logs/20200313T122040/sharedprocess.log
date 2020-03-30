@@ -1,0 +1,8 @@
+[2020-03-13 12:20:44.110] [sharedprocess] [info] main {"machineId":"f90a6355c413a670d1d9f1a1d9d6c24fcf038a7c27f55689b7c6695571721a54","windowId":2}
+[2020-03-13 12:21:24.121] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-13 12:29:53.798] [sharedprocess] [info] Installing extension: austincummings.razor-plus
+[2020-03-13 12:29:54.616] [sharedprocess] [info] Downloaded extension: austincummings.razor-plus /tmp/4c2e9718-20f1-437c-b5f9-76108e5a86ed
+[2020-03-13 12:29:54.680] [sharedprocess] [info] Extracted extension to /home/kai/.vscode/extensions/.austincummings.razor-plus-0.1.4: austincummings.razor-plus
+[2020-03-13 12:29:54.680] [sharedprocess] [info] Renamed to /home/kai/.vscode/extensions/austincummings.razor-plus-0.1.4
+[2020-03-13 12:29:54.681] [sharedprocess] [info] Installation completed. austincummings.razor-plus
+[2020-03-13 12:29:54.695] [sharedprocess] [info] Extensions installed successfully: austincummings.razor-plus

@@ -1,0 +1,131 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/kai/Documents/Digital/IA2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/CS.csproj
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/CS.csproj
+> git show :CS/appsettings.json
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/appsettings.json
+> git show :CS/appsettings.Development.json
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/appsettings.Development.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :CS/Properties/launchSettings.json
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Properties/launchSettings.json
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git show :CS/appsettings.json
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/appsettings.json
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git show :CS/Pages/Error.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Error.razor
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git show :CS/Pages/Index.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Index.razor
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git show :CS/Pages/Error.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Error.razor
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git show :CS/Pages/Index.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Index.razor
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git show :CS/Pages/Error.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Error.razor
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git show :CS/Pages/Index.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Index.razor
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml

@@ -1,0 +1,6 @@
+2020/03/29-22:10:37.265 c63 Reusing MANIFEST /home/kai/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/29-22:10:37.266 c63 Recovering log #25
+2020/03/29-22:10:37.284 c63 Reusing old log /home/kai/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000025.log 
+2020/03/29-22:11:02.222 d74 Level-0 table #31: started
+2020/03/29-22:11:02.264 d74 Level-0 table #31: 918213 bytes OK
+2020/03/29-22:11:02.276 d74 Delete type=0 #25

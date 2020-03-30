@@ -1,0 +1,6 @@
+2020/03/30-22:31:39.092 9b7 Reusing MANIFEST /home/kai/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/03/30-22:31:39.092 9b7 Recovering log #1090
+2020/03/30-22:31:39.093 9b7 Reusing old log /home/kai/.config/google-chrome/Default/Local Storage/leveldb/001090.log 
+2020/03/30-22:31:49.452 b1b Level-0 table #1096: started
+2020/03/30-22:31:49.464 b1b Level-0 table #1096: 12840 bytes OK
+2020/03/30-22:31:49.476 b1b Delete type=0 #1090

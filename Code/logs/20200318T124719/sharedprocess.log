@@ -1,0 +1,8 @@
+[2020-03-18 12:47:22.988] [sharedprocess] [info] main {"machineId":"f90a6355c413a670d1d9f1a1d9d6c24fcf038a7c27f55689b7c6695571721a54","windowId":2}
+[2020-03-18 12:47:25.605] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2020-03-18 12:47:27.334] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /tmp/f65f8287-7244-462c-8058-f258a429c2b2
+[2020-03-18 12:47:27.867] [sharedprocess] [info] Extracted extension to /home/kai/.vscode/extensions/.ms-vscode-remote.remote-ssh-0.50.0: ms-vscode-remote.remote-ssh
+[2020-03-18 12:47:27.867] [sharedprocess] [info] Renamed to /home/kai/.vscode/extensions/ms-vscode-remote.remote-ssh-0.50.0
+[2020-03-18 12:47:27.870] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2020-03-18 12:47:27.907] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh
+[2020-03-18 12:48:03.020] [sharedprocess] [info] Starting to clean up unused language packs.

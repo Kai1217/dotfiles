@@ -1,0 +1,19 @@
+2020/03/29-22:05:21.785 8b9 Reusing MANIFEST /home/kai/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2020/03/29-22:05:21.785 8b9 Recovering log #279
+2020/03/29-22:05:21.798 8b9 Reusing old log /home/kai/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000279.log 
+2020/03/29-22:12:49.684 e91 Level-0 table #283: started
+2020/03/29-22:12:49.768 e91 Level-0 table #283: 3331207 bytes OK
+2020/03/29-22:12:49.778 e91 Delete type=0 #279
+2020/03/29-22:12:49.780 e91 Compacting 4@0 + 3@1 files
+2020/03/29-22:12:49.869 e91 Generated table #284@0: 16 keys, 2449822 bytes
+2020/03/29-22:12:50.015 e91 Generated table #285@0: 11 keys, 2669042 bytes
+2020/03/29-22:12:50.147 e91 Generated table #286@0: 11 keys, 2013558 bytes
+2020/03/29-22:12:50.147 e91 Compacted 4@0 + 3@1 files => 7132422 bytes
+2020/03/29-22:12:50.164 e91 compacted to: files[ 0 3 1 0 0 0 0 ]
+2020/03/29-22:12:50.165 e91 Delete type=2 #274
+2020/03/29-22:12:50.165 e91 Delete type=2 #283
+2020/03/29-22:12:50.165 e91 Delete type=2 #280
+2020/03/29-22:12:50.165 e91 Delete type=2 #272
+2020/03/29-22:12:50.165 e91 Delete type=2 #273
+2020/03/29-22:12:50.165 e91 Delete type=2 #276
+2020/03/29-22:12:50.166 e91 Delete type=2 #278

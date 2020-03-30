@@ -1,0 +1,597 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/kai/Documents/Digital/IA2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git symbolic-ref --short HEAD
+> git cat-file -s 4eec63ac9f395a3bb928fe2e8f62ef8cd457a088
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :CS/Startup.cs
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git cat-file -s 4a45bd0d150260f27f4b1126ac39949fa380c1e0
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git cat-file -s a4d4af96c05f1597cca60a84b5622f7f920731ca
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git cat-file -s a4d4af96c05f1597cca60a84b5622f7f920731ca
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git cat-file -s 4a45bd0d150260f27f4b1126ac39949fa380c1e0
+> git show :CS/App.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/App.razor
+> git cat-file -s 4d0698bde1f5798ff189fe34fdf2b9b4f738bc0f
+> git show :CS/_Imports.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/_Imports.razor
+> git cat-file -s 11c457493555fe10a6706022414064d736052a3f
+> git show :CS/Pages/Index.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Index.razor
+> git cat-file -s 1df55d3efac63d848881900f60cc4da2303bf04e
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git cat-file -s a4d4af96c05f1597cca60a84b5622f7f920731ca
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git cat-file -s 4a45bd0d150260f27f4b1126ac39949fa380c1e0
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :CS/Data/WeatherForecast.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecast.cs
+> git cat-file -s ffa83a49b5b7efe705cb77447186113529cccd1e
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/_Imports.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/_Imports.razor
+> git cat-file -s 11c457493555fe10a6706022414064d736052a3f
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git cat-file -s 4eec63ac9f395a3bb928fe2e8f62ef8cd457a088
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git cat-file -s deb0f2dc00e064a36140dbbfce848e281f327e32
+> git show :CS/Pages/Counter.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Counter.razor
+> git cat-file -s a4d4af96c05f1597cca60a84b5622f7f920731ca
+> git show :CS/Pages/Error.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/Error.razor
+> git cat-file -s cd87ea95188c9cf72064359aca21a42bdb0cdbd8
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git cat-file -s 4a45bd0d150260f27f4b1126ac39949fa380c1e0
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git cat-file -s deb0f2dc00e064a36140dbbfce848e281f327e32
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/WeatherForecast.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecast.cs
+> git cat-file -s ffa83a49b5b7efe705cb77447186113529cccd1e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/Data.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Data.cs
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Data.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Data.cs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Data.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Data.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Data.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Data.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Data.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Data.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/App.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/App.razor
+> git cat-file -s 4d0698bde1f5798ff189fe34fdf2b9b4f738bc0f
+> git show :CS/_Imports.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/_Imports.razor
+> git cat-file -s 11c457493555fe10a6706022414064d736052a3f
+> git show :CS/appsettings.Development.json
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/appsettings.Development.json
+> git cat-file -s 2defd040959d8c67a6009b4646be7273363fcd1c
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git cat-file -s 4eec63ac9f395a3bb928fe2e8f62ef8cd457a088
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git cat-file -s deb0f2dc00e064a36140dbbfce848e281f327e32
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git cat-file -s 4eec63ac9f395a3bb928fe2e8f62ef8cd457a088
+> git show :CS/Pages/_Host.cshtml
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/_Host.cshtml
+> git cat-file -s 4a45bd0d150260f27f4b1126ac39949fa380c1e0
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Data.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Data.cs
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :CS/Data/DataInit.cs
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git symbolic-ref --short HEAD
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :CS/Data/WeatherForecastService.cs
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git symbolic-ref --short HEAD
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show :CS/Data/WeatherForecastService.cs
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/App.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/App.razor
+> git cat-file -s 4d0698bde1f5798ff189fe34fdf2b9b4f738bc0f
+> git show :CS/appsettings.json
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/appsettings.json
+> git cat-file -s 81ff877711d156f124e2b4f597c37e4a008745b5
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git symbolic-ref --short HEAD
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git rev-parse master
+> git show :CS/Pages/FetchData.razor
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git config --get commit.template
+> git show :CS/Pages/FetchData.razor
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git show :CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git show :CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git show :CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git show :CS/Pages/FetchData.razor
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Pages/FetchData.razor
+> git cat-file -s cd924cdd1065f5d63cc72b44d044182f429bb043
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/DataInit.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/DataInit.cs
+> git show :CS/Data/WeatherForecastService.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/WeatherForecastService.cs
+> git cat-file -s 1a3a4133591f2cec61f40b2cb294aa75e0c010f9
+> git show :CS/Data/Dataset2.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Data/Dataset2.cs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :CS/Program.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Program.cs
+> git cat-file -s deb0f2dc00e064a36140dbbfce848e281f327e32
+> git show :CS/Startup.cs
+> git ls-files --stage -- /home/kai/Documents/Digital/IA2/CS/Startup.cs
+> git cat-file -s 4eec63ac9f395a3bb928fe2e8f62ef8cd457a088
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
